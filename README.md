@@ -7,7 +7,7 @@
 - 🎓 **Education**: BTS SIO (Option SLAM), 3rd-year MIASHS Informatique
 
 
-###💻 **Skills**:
+### **Skills**:
 
 ### Développement Web
 #### Frontend
