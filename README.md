@@ -1,6 +1,6 @@
 # Hi there, I'm Walid 👋
 
-Welcome to my GitHub! I'm a passionate software developer currently studying **MIASHS Informatique (L3)** at the University of Toulouse II - Jean Jaurès and pursuing an alternance in computer development.
+I'm a fullstack developer with a passion for creating efficient, scalable, and user-friendly applications. Currently, I'm pursuing a **MIASHS Informatique (L3)** degree at the University of Toulouse II - Jean Jaurès.
 
 ## 🚀 About Me
 
@@ -45,3 +45,16 @@ Welcome to my GitHub! I'm a passionate software developer currently studying **M
 ## 📈 Contribution Graph
 
 ![Walid's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=walidmadad&theme=react-dark)
+
+## 📊 GitHub Metrics
+
+![Metrics](https://metrics.lecoq.io/walidmadadtemplate=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&languages=1&languages.limit=8&languages.colors=github&languages.threshold=0%25&config.timezone=Europe%2FParis)
+
+## 📅 Commits Per Day
+
+![Commits Per Day](https://github-readme-stats.vercel.app/api/wakatime?username=walidmadad&layout=compact&theme=radical)
+
+## ⌛ WakaTime Stats
+
+![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=walidmadad&theme=radical)
+
