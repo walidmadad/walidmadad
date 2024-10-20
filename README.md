@@ -9,8 +9,7 @@ Welcome to my GitHub! I'm a passionate software developer currently studying **M
   - **Languages**: Java, Python, PHP, JavaScript, C#
   - **Web Development**: HTML, CSS, JavaScript, React.js, PHP (Laravel)
   - **Mobile Development**: Java, Kotlin
-  - **Backend**: Node.js, PHP, MongoDB, MySQL, SQLite
-  - **Other**: Git, GitHub, GitLab, Linux, Windows, ReportLab, XMLDSig
+  - **Backend**: Node.js, PHP, MongoDB, MySQL, SQLite, Java
 - 🌱 **Currently Learning**: Kotlin, Android Development
 - 👷 **Looking for**: Alternance opportunities in software development
 
