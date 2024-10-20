@@ -25,4 +25,4 @@ Welcome to my GitHub! I'm a passionate software developer currently studying **M
 
 ## 📊 GitHub Stats
 
-![Walid's GitHub stats](https://github-readme-stats.vercel.app/api?username=walidmadad10&show_icons=true&theme=radical)
+![Walid's GitHub stats](https://github-readme-stats.vercel.app/api?username=walidmadad&show_icons=true&theme=radical)
