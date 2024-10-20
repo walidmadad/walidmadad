@@ -20,22 +20,21 @@
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" width="40" height="40"/>
   <img src="https://www.svgrepo.com/show/376332/laravel.svg" alt="laravel" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="spring" width="40" height="40"/>
+  <img src="https://www.svgrepo.com/show/452075/node-js.svg" alt="nodejs" width="40" height="40"/>
+  <img src="https://www.svgrepo.com/show/354379/spring.svg" alt="spring" width="40" height="40"/>
 </p>
 
 ### Développement Mobile
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" alt="kotlin" width="40" height="40"/>
+  <img src="https://www.svgrepo.com/show/452234/java.svg" alt="java" width="40" height="40"/>
+  <img src="https://www.svgrepo.com/show/373728/kotlin.svg" alt="kotlin" width="40" height="40"/>
 </p>
 
 ### Bases de Données
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" alt="sqlite" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mariadb/mariadb-original.svg" alt="mariadb" width="40" height="40"/>
+  <img src="https://www.svgrepo.com/show/303251/mysql-logo.svg" alt="mysql" width="40" height="40"/>
+  <img src="https://www.svgrepo.com/show/354381/sqlite.svg" alt="sqlite" width="40" height="40"/>
+  <img src="https://www.svgrepo.com/show/354039/mariadb.svg" alt="mariadb" width="40" height="40"/>
 </p>
 
 ### Design Patterns
@@ -45,47 +44,40 @@
 ### Langages de Programmation
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java" width="40" height="40"/>
+  <img src="https://www.svgrepo.com/show/452234/java.svg" alt="java" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
 </p>
 
 ### Outils de Collaboration
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" alt="gitlab" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-original.svg" alt="trello" width="40" height="40"/>
+  <img src="https://www.svgrepo.com/show/475654/github-color.svg" alt="github" width="40" height="40"/>
+  <img src="https://www.svgrepo.com/show/373625/gitlab.svg" alt="gitlab" width="40" height="40"/>
+  <img src="https://www.svgrepo.com/show/475688/trello-color.svg" alt="trello" width="40" height="40"/>
 </p>
 
 ### Version Control
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="40" height="40"/>
+  <img src="https://www.svgrepo.com/show/452210/git.svg" alt="git" width="40" height="40"/>
 </p>
-- Git
 
 ### Langage de Modélisation
 <p align="left">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/UML_logo.svg" alt="UML" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/UML_logo.svg" alt="UML" width="40" height="40"/>
 </p>
-- UML
 
 ### Systèmes d’Exploitation
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" alt="windows" width="40" height="40"/>
+  <img src="https://www.svgrepo.com/show/448236/linux.svg" alt="linux" width="40" height="40"/>
+  <img src="https://www.svgrepo.com/show/382713/windows-applications.svg" alt="windows" width="40" height="40"/>
 </p>
 
 ### Design
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-line.svg" alt="illustrator" width="40" height="40"/>
+  <img src="https://www.svgrepo.com/show/373968/photoshop.svg" alt="photoshop" width="40" height="40"/>
+  <img src="https://www.svgrepo.com/show/452147/adobe-illustrator.svg" alt="illustrator" width="40" height="40"/>
 </p>
 
-### Outils de Bureau
-<p align="left">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Microsoft_Office_365_logo.svg" alt="Microsoft 365" width="40" height="40"/>
-</p>
-- Microsoft 365
 
 ## 📫 How to reach me
 
