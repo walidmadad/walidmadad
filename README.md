@@ -5,7 +5,9 @@
 ## 🚀 About Me
 
 - 🎓 **Education**: BTS SIO (Option SLAM), 3rd-year MIASHS Informatique
-- 💻 **Skills**:
+
+
+####💻 **Skills**:
 
 ### Développement Web
 #### Frontend
@@ -37,9 +39,6 @@
   <img src="https://www.svgrepo.com/show/354039/mariadb.svg" alt="mariadb" width="40" height="40"/>
 </p>
 
-### Design Patterns
-- MVC
-- MVVM
 
 ### Langages de Programmation
 <p align="left">
