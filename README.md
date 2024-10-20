@@ -26,3 +26,23 @@ Welcome to my GitHub! I'm a passionate software developer currently studying **M
 ## 📊 GitHub Stats
 
 ![Walid's GitHub stats](https://github-readme-stats.vercel.app/api?username=walidmadad&show_icons=true&theme=radical)
+
+## 📊 Most Used Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=walidmadad10&layout=compact&theme=radical)
+
+## 🔥 GitHub Streak
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=walidmadad10&theme=radical)
+
+## 🏆 GitHub Trophies
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=walidmadad10&theme=radical)
+
+## 👀 Profile Views
+
+![Profile Views](https://komarev.com/ghpvc/?username=walidmadad10&color=brightgreen)
+
+## 📈 Contribution Graph
+
+![Walid's GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=walidmadad10&theme=react-dark)
