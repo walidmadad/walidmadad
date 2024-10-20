@@ -44,4 +44,4 @@ Welcome to my GitHub! I'm a passionate software developer currently studying **M
 
 ## 📈 Contribution Graph
 
-![Walid's GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=walidmadad&theme=react-dark)
+![Walid's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=walidmadad&theme=react-dark)
