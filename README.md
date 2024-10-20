@@ -1,13 +1,14 @@
 # Hi there, I'm Walid 👋
 
-I'm a fullstack developer with a passion for creating efficient, scalable, and user-friendly applications. Currently, I'm pursuing a **MIASHS Informatique (L3)** degree at the University of Toulouse II - Jean Jaurès and working as a fullstack developer in alternance.
+"I'm a fullstack developer with a passion for creating efficient, scalable, and user-friendly applications. Currently, I'm a student pursuing a MIASHS Informatique (L3) degree at the University of Toulouse II - Jean Jaurès.
 
 ## 🚀 About Me
 
 - 🎓 **Education**: BTS SIO (Option SLAM), 3rd-year MIASHS Informatique
 - 💻 **Skills**:
 
-### Frontend
+### Développement Web
+#### Frontend
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/>
@@ -15,41 +16,82 @@ I'm a fullstack developer with a passion for creating efficient, scalable, and u
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" width="40" height="40"/>
 </p>
 
-### Backend
+#### Backend
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" alt="laravel" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="spring" width="40" height="40"/>
 </p>
 
-### Mobile
+### Développement Mobile
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" alt="kotlin" width="40" height="40"/>
 </p>
 
-### Databases
+### Bases de Données
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" alt="sqlite" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mariadb/mariadb-original.svg" alt="mariadb" width="40" height="40"/>
 </p>
 
-### Tools
+### Design Patterns
+- MVC
+- MVVM
+
+### Langages de Programmation
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
+</p>
+
+### Outils de Collaboration
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" alt="gitlab" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-original.svg" alt="trello" width="40" height="40"/>
+</p>
+
+### Version Control
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="40" height="40"/>
+</p>
+- Git
+
+### Langage de Modélisation
+<p align="left">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/UML_logo.svg" alt="UML" width="40" height="40"/>
+</p>
+- UML
+
+### Systèmes d’Exploitation
+<p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" alt="windows" width="40" height="40"/>
 </p>
 
-- 🌱 **Currently Learning**: Kotlin, Android Development
-- 👷 **Looking for**: Alternance opportunities in software development
+### Design
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-line.svg" alt="illustrator" width="40" height="40"/>
+</p>
+
+### Outils de Bureau
+<p align="left">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Microsoft_Office_365_logo.svg" alt="Microsoft 365" width="40" height="40"/>
+</p>
+- Microsoft 365
 
 ## 📫 How to reach me
 
-- Email: walidmadad10@gmail.com
-- LinkedIn: [Walid Madad](https://www.linkedin.com/in/walid-madad)
-- Portfolio: [YourWebsite.com](https://yourwebsite.com)
+- Email: walid.madad123@gmail.com
+- LinkedIn: [Walid Madad](https://www.linkedin.com/in/walid-madad-610828200/)
+- Portfolio: [walid-madad.com](https://walid-madad.com)
 
 ## 📊 GitHub Stats
 
@@ -74,4 +116,3 @@ I'm a fullstack developer with a passion for creating efficient, scalable, and u
 ## 📈 Contribution Graph
 
 ![Walid's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=walidmadad&theme=react-dark)
-
