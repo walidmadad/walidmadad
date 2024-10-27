@@ -12,7 +12,11 @@
 - LinkedIn: [Walid Madad](https://www.linkedin.com/in/walid-madad-610828200/)
 - Portfolio: [walid-madad.com](https://walid-madad.com)
 
+## 🏆 Mes Trophées GitHub
+
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=walidmadad&theme=radical)
+
+![Profile Views](https://komarev.com/ghpvc/?username=walidmadad&color=brightgreen)
 
 ## **Skills**:
 <p align="left">
@@ -54,11 +58,8 @@
 </p>
 
 
+| ![Walid's GitHub stats](https://github-readme-stats.vercel.app/api?username=walidmadad&show_icons=true&theme=radical) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=walidmadad&layout=compact&theme=radical) | ![GitHub Streak](https://streak-stats.demolab.com/?user=walidmadad&theme=radical) |
+| --- | --- | --- |
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=walidmadad&show_icons=true&locale=en&layout=compact" alt="walidmadad" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=walidmadad&show_icons=true&locale=en" alt="walidmadad" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=walidmadad&" alt="walidmadad" /></p>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=walidmadad&label=Profile%20views&color=0e75b6&style=flat" alt="walidmadad" /> </p>
