@@ -55,13 +55,10 @@
 
 
 
-<p>![Walid's GitHub stats](https://github-readme-stats.vercel.app/api?username=walidmadad&show_icons=true&theme=radical)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=walidmadad&show_icons=true&locale=en&layout=compact" alt="walidmadad" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=walidmadad&show_icons=true&locale=en" alt="walidmadad" /></p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=walidmadad&layout=compact&theme=radical)
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=walidmadad&" alt="walidmadad" /></p>
 
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=walidmadad&theme=radical)</p>
-
-
-![Profile Views](https://komarev.com/ghpvc/?username=walidmadad&color=brightgreen)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=walidmadad&label=Profile%20views&color=0e75b6&style=flat" alt="walidmadad" /> </p>
