@@ -1,6 +1,6 @@
 # Hi, I'm Walid 👋
 
-"I'm a fullstack developer with a passion for creating efficient, scalable, and user-friendly applications. Currently, I'm a student pursuing a MIASHS Informatique (L3) degree at the University of Toulouse II - Jean Jaurès.
+"I'm a fullstack developer. Currently, I'm a student pursuing a MIASHS Informatique (L3) degree at the University of Toulouse II - Jean Jaurès.
 
 ## 🚀 About Me
 
