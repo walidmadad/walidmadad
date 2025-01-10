@@ -12,7 +12,7 @@
 - LinkedIn: [Walid Madad](https://www.linkedin.com/in/walid-madad-610828200/)
 - Portfolio: [walid-madad.com](https://walid-madad.com)
 
-## 🏆 Mes Trophées GitHub
+## 🏆 My GitHub Trophies
 
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=walidmadad&theme=radical)
 
@@ -60,7 +60,6 @@
 
 ![Walid's GitHub stats](https://github-readme-stats.vercel.app/api?username=walidmadad&show_icons=true&theme=transparent) 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=walidmadad&layout=compact&theme=transparent) 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=walidmadad)](https://github.com/anuraghazra/github-readme-stats)
 ![GitHub Streak](https://streak-stats.demolab.com/?user=walidmadad&theme=radical) 
 
 
