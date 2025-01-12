@@ -57,7 +57,7 @@
   <img src="https://www.svgrepo.com/show/452147/adobe-illustrator.svg" alt="illustrator" width="40" height="40"/>
 </p>
 
-## **currently learning**: 
+### **Currently learning**: 
 Spring Sécurity, Spring AI, React Native
 
 ![Walid's GitHub stats](https://github-readme-stats.vercel.app/api?username=walidmadad&show_icons=true&theme=transparent) 
