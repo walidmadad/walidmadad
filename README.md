@@ -58,7 +58,14 @@
 </p>
 
 ### **Currently learning**: 
-Spring Sécurity, Spring AI, React Native
+<p>
+  
+  | <img src="https://spring.io/img/projects/spring-security.svg" width="40" height="40" alt="SpringSecurity"> | Spring Security |
+|--------------------------------------------------|----------------|
+
+  
+
+</p>
 
 ![Walid's GitHub stats](https://github-readme-stats.vercel.app/api?username=walidmadad&show_icons=true&theme=transparent) 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=walidmadad&layout=compact&theme=transparent) 
