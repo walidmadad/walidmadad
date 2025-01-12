@@ -56,6 +56,7 @@
   <img src="https://www.svgrepo.com/show/373968/photoshop.svg" alt="photoshop" width="40" height="40"/>
   <img src="https://www.svgrepo.com/show/452147/adobe-illustrator.svg" alt="illustrator" width="40" height="40"/>
 </p>
+
 ## **currently learning**: 
 Spring Sécurity, Spring AI
 
