@@ -63,6 +63,8 @@
   | <img src="https://spring.io/img/projects/spring-security.svg" width="40" height="40" alt="SpringSecurity"> | Spring Security |
 |--------------------------------------------------|----------------|
 
+  | <img src="https://spring.io/img/projects/spring-authorization-server.svg" width="40" height="40" alt="SpringSecurity"> | Spring Authorization Server |
+|--------------------------------------------------|----------------|
   
 
 </p>
