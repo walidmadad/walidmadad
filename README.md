@@ -2,23 +2,23 @@
 
 "I'm a fullstack developer. Currently, I'm a student pursuing a MIASHS Informatique (L3) degree at the University of Toulouse II - Jean Jaurès.
 
-## 🚀 About Me
+### 🚀 About Me
 
 - 🎓 **Education**: BTS SIO (Option SLAM), 3rd-year MIASHS Informatique
 
-## 📫 How to reach me
+### 📫 How to reach me
 
 - Email: walid.madad123@gmail.com
 - LinkedIn: [Walid Madad](https://www.linkedin.com/in/walid-madad-610828200/)
 - Portfolio: [walid-madad.com](https://walid-madad.com)
 
-## 🏆 My GitHub Trophies
+### 🏆 My GitHub Trophies
 
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=walidmadad&theme=radical)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=walidmadad&color=brightgreen)
 
-## **Skills**:
+### **Skills**:
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/>
@@ -58,7 +58,7 @@
 </p>
 
 ## **currently learning**: 
-Spring Sécurity, Spring AI
+Spring Sécurity, Spring AI, React Native
 
 ![Walid's GitHub stats](https://github-readme-stats.vercel.app/api?username=walidmadad&show_icons=true&theme=transparent) 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=walidmadad&layout=compact&theme=transparent) 
