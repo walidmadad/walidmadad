@@ -69,6 +69,9 @@
   | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/220px-React-icon.svg.png" width="40" height="40" alt="reactNative"> | React Native |
 |--------------------------------------------------|----------------|
 
+  | <img src="https://angular.io/assets/images/logos/angularjs/AngularJS-Shield.svg" width="40" height="40" alt="angular"> | Angular |
+|--------------------------------------------------|----------------|
+
 </p>
 
 ![Walid's GitHub stats](https://github-readme-stats.vercel.app/api?username=walidmadad&show_icons=true&theme=transparent) 
