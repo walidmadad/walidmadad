@@ -4,7 +4,7 @@
 
 ### 🚀 About Me
 
-- 🎓 **Education**: BTS SIO (Option SLAM), 3rd-year MIASHS Informatique
+- 🎓 **Education**: BTS SIO (Option SLAM), Degree MIASHS Informatique
 
 ### 📫 How to reach me
 
