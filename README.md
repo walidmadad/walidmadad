@@ -1,10 +1,10 @@
 # Hi, I'm Walid 👋
 
-"I'm a fullstack (Java/ReactJS) developer. Currently, I'm a student pursuing a MIASHS Informatique (L3) degree at the University of Toulouse II - Jean Jaurès.
+II'm a Full-Stack Developer specializing in Java and React.js. Currently, I'm in my third year of a Bachelor's degree in Computer Science at the University of Toulouse II - Jean Jaurès.
 
 ### 🚀 About Me
 
-- 🎓 **Education**: BTS SIO (Option SLAM), Degree MIASHS Informatique
+- 🎓 **Education**: Computer Science Degree, Higher National Diploma (HND) in Computer Science.
 
 ### 📫 How to reach me
 
