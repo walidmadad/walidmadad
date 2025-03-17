@@ -75,6 +75,7 @@ II'm a Full-Stack Developer specializing in Java and React.js. Currently, I'm in
 
 ![Walid's GitHub stats](https://github-readme-stats.vercel.app/api?username=walidmadad&show_icons=true&theme=transparent) 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=walidmadad&layout=compact&theme=transparent) 
+![Strake](https://github-readme-streak-stats.herokuapp.com/?user=walidmadad&theme=transparent)
 
 
 
