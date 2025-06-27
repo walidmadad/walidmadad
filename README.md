@@ -7,7 +7,6 @@ I'm a Full-Stack Developer specializing in Java and React.js. Currently, I'm in 
 
 - Email: walid.madad123@gmail.com
 - LinkedIn: [Walid Madad](https://www.linkedin.com/in/walid-madad-610828200/)
-- Portfolio: [walid-madad.com](https://walid-madad.com)
 
 ### 🏆 My GitHub Trophies
 
