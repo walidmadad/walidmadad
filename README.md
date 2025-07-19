@@ -14,19 +14,6 @@ I'm a Full-Stack Developer specializing in Java and React.js. Currently, I'm in 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=walidmadad&color=brightgreen)
 
-### **Currently learning**: 
-<p>
-  
-  | <img src="https://spring.io/img/projects/spring-security.svg" width="40" height="40" alt="SpringSecurity"> | Spring Security |
-|--------------------------------------------------|----------------|
-
-  | <img src="https://spring.io/img/projects/spring-authorization-server.svg" width="40" height="40" alt="SpringAuthServer"> | Spring Authorization Server |
-|--------------------------------------------------|----------------|
-
-  | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/220px-React-icon.svg.png" width="40" height="40" alt="reactNative"> | React Native |
-|--------------------------------------------------|----------------|
-
-</p>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=walidmadad&layout=compact&theme=transparent) 
 ![Strake](https://github-readme-streak-stats.herokuapp.com/?user=walidmadad&theme=transparent)
