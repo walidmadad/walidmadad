@@ -1,6 +1,6 @@
 # Hi, I'm Walid 👋
 
-I'm a Software Engineer and Full-Stack Java Developer. Currently, I'm a Master’s student in Continuous Engineering for Software and Data Ecosystems at the University of Toulouse II - Jean Jaurès.
+I'm a Software Engineer and Full-Stack Java Developer. Currently, I'm a Master’s student in Continuous Engineering for Software and Data Ecosystems at the University of Toulouse II - Jean Jaurès and a Software Engineer - Tools & Automation at Metavonics.
 
 
 ### 📫 How to reach me
