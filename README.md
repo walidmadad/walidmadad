@@ -1,11 +1,11 @@
 # Hi, I'm Walid 👋
 
-I'm a Full-Stack Developer specializing in Java and React.js. Currently, I'm in my third year of a Bachelor's degree in Computer Science at the University of Toulouse II - Jean Jaurès.
+I'm a Software Engineer and Full-Stack Java Developer. Currently, I'm a Master’s student in Continuous Engineering for Software and Data Ecosystems at the University of Toulouse II - Jean Jaurès.
 
 
 ### 📫 How to reach me
 
-- Email: walid.madad123@gmail.com
+- Email: walidmadad10@gmail.com
 - LinkedIn: [Walid Madad](https://www.linkedin.com/in/walid-madad-610828200/)
 
 ### 🏆 My GitHub Trophies
