@@ -5,7 +5,7 @@ I'm a Software Engineer and Full-Stack Java Developer. Currently, I'm a Masterâ€
 ### ðŸ’» Featured Project
 UML2Code is an open-source library that transforms UML diagrams into code skeletons.
 It is designed to be educational and lightweight, helping students and developers quickly move from design to implementation.
-#### [Uml2Code](https://github.com/walidmadad/uml2code-lib) 
+#### [Uml2Code](https://github.com/uml2code/uml-to-code) 
 ![Java](https://img.shields.io/badge/Language-Java-blue)
 ![PlantUML](https://img.shields.io/badge/Diagram-PlantUML-orange)
 ![License](https://img.shields.io/badge/License-Apache%202.0-green)
