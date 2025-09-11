@@ -14,7 +14,7 @@ With its lightweight and extensible architecture, UML2Code adapts to different w
 
 ### 📫 How to reach me
 
-- Email: walidmadad10@gmail.com
+- Email: contact@walid-madad.com
 - LinkedIn: [Walid Madad](https://www.linkedin.com/in/walid-madad-610828200/)
 
 ### 🏆 My GitHub Trophies
